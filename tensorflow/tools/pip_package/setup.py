@@ -38,7 +38,7 @@ REQUIRED_PACKAGES = [
     'werkzeug >= 0.11.10',
     'html5lib == 0.9999999',  # identical to 1.0b8
     'markdown == 2.2.0',
-    'bleach == 1.5.0',
+    'bleach == 3.3.0',
 ]
 
 project_name = 'tensorflow'
